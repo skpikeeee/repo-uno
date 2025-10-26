@@ -1,4 +1,4 @@
 nombre = "Ricardo"
-apellido = "Flores"
+apellido = "Maass"
 
-print("Hola" + nombre + "" + apellido+"Como estas?") 
+print(" Hola " + nombre + " " + apellido+ " Como estas? ") 
